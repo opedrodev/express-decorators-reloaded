@@ -1,4 +1,5 @@
 import { Controller } from "./Controller"
+import { Middlewares } from "./Middlewares"
 import { RegisterControllers } from "./Controller"
 import { Get } from "./methods/Get"
 import { Post } from "./methods/Post"
@@ -8,6 +9,7 @@ import { Delete } from "./methods/Delete"
 
 export {
     Controller,
+    Middlewares,
     RegisterControllers,
     Get,
     Post,
