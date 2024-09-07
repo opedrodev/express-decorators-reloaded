@@ -1,5 +1,5 @@
 {
-  "name": "express-decorators",
+  "name": "express-decorators-reloaded",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
